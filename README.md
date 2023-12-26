@@ -1,3 +1,27 @@
+
+Instructions:
+
+Clone the Repository
+
+git clone <repository_url>
+
+cd your-react-poc-directory
+
+npm install
+
+
+
+Faker Directory:
+Ensure that the generateData.js file is properly configured and generates mock data
+
+mv node_modules/faker node_modules/Faker
+
+Run the Application:
+npm start
+The application will be available at http://localhost:3000 by default
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
